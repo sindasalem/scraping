@@ -7,14 +7,14 @@ Les principales fonctionnalités sont:
 * Création d'un fichier json contenant le rang, le keyword et l'url de chaque produit.
 ### Cloner le repo
 ```bash
-git https://github.com/pathToProject
-cd projectname
+git clone https://github.com/sindasalem/scraping.git
+cd scraping
 ```
-### Install Dependencies
+### Installer les  Dépendances
 ```bash
 pip install .
 ```
-### Run script
+### Executer le script
 ```bash
 python -m scrap
 ```
